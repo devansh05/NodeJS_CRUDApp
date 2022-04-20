@@ -1,0 +1,9 @@
+ HTTP REQUEST API Domain Name - localhost, Port Number - 9000 : http://localhost:9000/aliens
+ GET Request : fetch all the list of aliens : http://localhost:9000/aliens
+ GET Specific Request : fetch one specific alien with id : http://localhost:9000/aliens/<id>
+ POST request from client to server: to save new alien
+ PATCH : to update minor changes : http://localhost:9000/aliens/<id>
+ DELETE : to delete users from data base : http://localhost:9000/aliens/<id>
+
+ always install nodemon globally
+ to run the project use 'nodemon run start', nodemon run is the basic command and start we have used as we mentioned it in package
